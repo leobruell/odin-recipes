@@ -1,0 +1,22 @@
+li, p1{
+    color: rgb(13, 88, 88);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1 {
+    background-color: rgb(196, 144, 76);
+}
+h2, h3 {
+    background-color: rgb(111, 177, 179);
+}
+
+.home {
+    font-size: 24px;
+    text-align: center;
+    color:rgb(114, 60, 165);
+}
+
+img {
+    height: auto;
+    width: 300px;
+}
